@@ -7,12 +7,27 @@
 	objects = {
 
 /* Begin PBXBuildFile section */
+		8502E6B4199216C200F270AA /* GillSans-Bold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8502E6AB199216C100F270AA /* GillSans-Bold.otf */; };
+		8502E6B5199216C200F270AA /* GillSans-BoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8502E6AC199216C200F270AA /* GillSans-BoldItalic.otf */; };
+		8502E6B6199216C200F270AA /* GillSans-Italic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8502E6AD199216C200F270AA /* GillSans-Italic.otf */; };
+		8502E6B7199216C200F270AA /* GillSans-Light.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8502E6AE199216C200F270AA /* GillSans-Light.otf */; };
+		8502E6B8199216C200F270AA /* GillSans-LightItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8502E6AF199216C200F270AA /* GillSans-LightItalic.otf */; };
+		8502E6B9199216C200F270AA /* GillSans-SemiBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8502E6B0199216C200F270AA /* GillSans-SemiBold.otf */; };
+		8502E6BA199216C200F270AA /* GillSans-SemiBoldItalic.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8502E6B1199216C200F270AA /* GillSans-SemiBoldItalic.otf */; };
+		8502E6BB199216C200F270AA /* GillSans-UltraBold.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8502E6B2199216C200F270AA /* GillSans-UltraBold.otf */; };
+		8502E6BC199216C200F270AA /* GillSans.otf in Resources */ = {isa = PBXBuildFile; fileRef = 8502E6B3199216C200F270AA /* GillSans.otf */; };
+		85458FCB19CC187600AD49EF /* CoreGraphics.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85458FCA19CC187600AD49EF /* CoreGraphics.framework */; };
 		85546609198FDDAF0096B8A6 /* main.m in Sources */ = {isa = PBXBuildFile; fileRef = 85546608198FDDAF0096B8A6 /* main.m */; };
 		8554660C198FDDAF0096B8A6 /* AppDelegate.m in Sources */ = {isa = PBXBuildFile; fileRef = 8554660B198FDDAF0096B8A6 /* AppDelegate.m */; };
 		8554660F198FDDAF0096B8A6 /* ViewController.m in Sources */ = {isa = PBXBuildFile; fileRef = 8554660E198FDDAF0096B8A6 /* ViewController.m */; };
 		85546612198FDDAF0096B8A6 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = 85546610198FDDAF0096B8A6 /* Main.storyboard */; };
 		85546614198FDDAF0096B8A6 /* Images.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = 85546613198FDDAF0096B8A6 /* Images.xcassets */; };
 		85546620198FDDAF0096B8A6 /* Pantone_WeatherTests.m in Sources */ = {isa = PBXBuildFile; fileRef = 8554661F198FDDAF0096B8A6 /* Pantone_WeatherTests.m */; };
+		8554662B198FE7CD0096B8A6 /* FXLabel.m in Sources */ = {isa = PBXBuildFile; fileRef = 8554662A198FE7CD0096B8A6 /* FXLabel.m */; };
+		855701BC19CB74C900D31765 /* facebook-256.png in Resources */ = {isa = PBXBuildFile; fileRef = 855701BA19CB74C900D31765 /* facebook-256.png */; };
+		855701BD19CB74C900D31765 /* twitter-256.png in Resources */ = {isa = PBXBuildFile; fileRef = 855701BB19CB74C900D31765 /* twitter-256.png */; };
+		85C18BF31992322E0070AF07 /* CoreLocation.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85C18BF21992322E0070AF07 /* CoreLocation.framework */; };
+		85C18BF51992323A0070AF07 /* QuartzCore.framework in Frameworks */ = {isa = PBXBuildFile; fileRef = 85C18BF41992323A0070AF07 /* QuartzCore.framework */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXContainerItemProxy section */
@@ -26,6 +41,16 @@
 /* End PBXContainerItemProxy section */
 
 /* Begin PBXFileReference section */
+		8502E6AB199216C100F270AA /* GillSans-Bold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GillSans-Bold.otf"; sourceTree = "<group>"; };
+		8502E6AC199216C200F270AA /* GillSans-BoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GillSans-BoldItalic.otf"; sourceTree = "<group>"; };
+		8502E6AD199216C200F270AA /* GillSans-Italic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GillSans-Italic.otf"; sourceTree = "<group>"; };
+		8502E6AE199216C200F270AA /* GillSans-Light.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GillSans-Light.otf"; sourceTree = "<group>"; };
+		8502E6AF199216C200F270AA /* GillSans-LightItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GillSans-LightItalic.otf"; sourceTree = "<group>"; };
+		8502E6B0199216C200F270AA /* GillSans-SemiBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GillSans-SemiBold.otf"; sourceTree = "<group>"; };
+		8502E6B1199216C200F270AA /* GillSans-SemiBoldItalic.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GillSans-SemiBoldItalic.otf"; sourceTree = "<group>"; };
+		8502E6B2199216C200F270AA /* GillSans-UltraBold.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = "GillSans-UltraBold.otf"; sourceTree = "<group>"; };
+		8502E6B3199216C200F270AA /* GillSans.otf */ = {isa = PBXFileReference; lastKnownFileType = file; path = GillSans.otf; sourceTree = "<group>"; };
+		85458FCA19CC187600AD49EF /* CoreGraphics.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreGraphics.framework; path = System/Library/Frameworks/CoreGraphics.framework; sourceTree = SDKROOT; };
 		85546603198FDDAF0096B8A6 /* Pantone Weather.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = "Pantone Weather.app"; sourceTree = BUILT_PRODUCTS_DIR; };
 		85546607198FDDAF0096B8A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		85546608198FDDAF0096B8A6 /* main.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = main.m; sourceTree = "<group>"; };
@@ -38,6 +63,12 @@
 		85546619198FDDAF0096B8A6 /* Pantone WeatherTests.xctest */ = {isa = PBXFileReference; explicitFileType = wrapper.cfbundle; includeInIndex = 0; path = "Pantone WeatherTests.xctest"; sourceTree = BUILT_PRODUCTS_DIR; };
 		8554661E198FDDAF0096B8A6 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
 		8554661F198FDDAF0096B8A6 /* Pantone_WeatherTests.m */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.c.objc; path = Pantone_WeatherTests.m; sourceTree = "<group>"; };
+		85546629198FE7CD0096B8A6 /* FXLabel.h */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.h; path = FXLabel.h; sourceTree = "<group>"; };
+		8554662A198FE7CD0096B8A6 /* FXLabel.m */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.c.objc; path = FXLabel.m; sourceTree = "<group>"; };
+		855701BA19CB74C900D31765 /* facebook-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "facebook-256.png"; sourceTree = "<group>"; };
+		855701BB19CB74C900D31765 /* twitter-256.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; path = "twitter-256.png"; sourceTree = "<group>"; };
+		85C18BF21992322E0070AF07 /* CoreLocation.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = CoreLocation.framework; path = System/Library/Frameworks/CoreLocation.framework; sourceTree = SDKROOT; };
+		85C18BF41992323A0070AF07 /* QuartzCore.framework */ = {isa = PBXFileReference; lastKnownFileType = wrapper.framework; name = QuartzCore.framework; path = System/Library/Frameworks/QuartzCore.framework; sourceTree = SDKROOT; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -45,6 +76,9 @@
 			isa = PBXFrameworksBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				85458FCB19CC187600AD49EF /* CoreGraphics.framework in Frameworks */,
+				85C18BF51992323A0070AF07 /* QuartzCore.framework in Frameworks */,
+				85C18BF31992322E0070AF07 /* CoreLocation.framework in Frameworks */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -58,9 +92,30 @@
 /* End PBXFrameworksBuildPhase section */
 
 /* Begin PBXGroup section */
+		85036DEA199194DE005F6DE2 /* Fonts */ = {
+			isa = PBXGroup;
+			children = (
+				8502E6AB199216C100F270AA /* GillSans-Bold.otf */,
+				8502E6AC199216C200F270AA /* GillSans-BoldItalic.otf */,
+				8502E6AD199216C200F270AA /* GillSans-Italic.otf */,
+				8502E6AE199216C200F270AA /* GillSans-Light.otf */,
+				8502E6AF199216C200F270AA /* GillSans-LightItalic.otf */,
+				8502E6B0199216C200F270AA /* GillSans-SemiBold.otf */,
+				8502E6B1199216C200F270AA /* GillSans-SemiBoldItalic.otf */,
+				8502E6B2199216C200F270AA /* GillSans-UltraBold.otf */,
+				8502E6B3199216C200F270AA /* GillSans.otf */,
+			);
+			name = Fonts;
+			sourceTree = "<group>";
+		};
 		855465FA198FDDAF0096B8A6 = {
 			isa = PBXGroup;
 			children = (
+				85458FCA19CC187600AD49EF /* CoreGraphics.framework */,
+				85C18BF41992323A0070AF07 /* QuartzCore.framework */,
+				85C18BF21992322E0070AF07 /* CoreLocation.framework */,
+				85036DEA199194DE005F6DE2 /* Fonts */,
+				8554662C198FE7D10096B8A6 /* Classes */,
 				85546605198FDDAF0096B8A6 /* Pantone Weather */,
 				8554661C198FDDAF0096B8A6 /* Pantone WeatherTests */,
 				85546604198FDDAF0096B8A6 /* Products */,
@@ -79,11 +134,11 @@
 		85546605198FDDAF0096B8A6 /* Pantone Weather */ = {
 			isa = PBXGroup;
 			children = (
+				85546610198FDDAF0096B8A6 /* Main.storyboard */,
 				8554660A198FDDAF0096B8A6 /* AppDelegate.h */,
 				8554660B198FDDAF0096B8A6 /* AppDelegate.m */,
 				8554660D198FDDAF0096B8A6 /* ViewController.h */,
 				8554660E198FDDAF0096B8A6 /* ViewController.m */,
-				85546610198FDDAF0096B8A6 /* Main.storyboard */,
 				85546613198FDDAF0096B8A6 /* Images.xcassets */,
 				85546606198FDDAF0096B8A6 /* Supporting Files */,
 			);
@@ -93,6 +148,8 @@
 		85546606198FDDAF0096B8A6 /* Supporting Files */ = {
 			isa = PBXGroup;
 			children = (
+				855701BA19CB74C900D31765 /* facebook-256.png */,
+				855701BB19CB74C900D31765 /* twitter-256.png */,
 				85546607198FDDAF0096B8A6 /* Info.plist */,
 				85546608198FDDAF0096B8A6 /* main.m */,
 			);
@@ -114,6 +171,15 @@
 				8554661E198FDDAF0096B8A6 /* Info.plist */,
 			);
 			name = "Supporting Files";
+			sourceTree = "<group>";
+		};
+		8554662C198FE7D10096B8A6 /* Classes */ = {
+			isa = PBXGroup;
+			children = (
+				85546629198FE7CD0096B8A6 /* FXLabel.h */,
+				8554662A198FE7CD0096B8A6 /* FXLabel.m */,
+			);
+			name = Classes;
 			sourceTree = "<group>";
 		};
 /* End PBXGroup section */
@@ -165,6 +231,7 @@
 				TargetAttributes = {
 					85546602198FDDAF0096B8A6 = {
 						CreatedOnToolsVersion = 6.0;
+						DevelopmentTeam = 3BN7KT9S7S;
 					};
 					85546618198FDDAF0096B8A6 = {
 						CreatedOnToolsVersion = 6.0;
@@ -196,8 +263,19 @@
 			isa = PBXResourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				8502E6BC199216C200F270AA /* GillSans.otf in Resources */,
+				8502E6B5199216C200F270AA /* GillSans-BoldItalic.otf in Resources */,
+				855701BD19CB74C900D31765 /* twitter-256.png in Resources */,
 				85546612198FDDAF0096B8A6 /* Main.storyboard in Resources */,
+				855701BC19CB74C900D31765 /* facebook-256.png in Resources */,
+				8502E6B6199216C200F270AA /* GillSans-Italic.otf in Resources */,
+				8502E6B4199216C200F270AA /* GillSans-Bold.otf in Resources */,
+				8502E6B7199216C200F270AA /* GillSans-Light.otf in Resources */,
+				8502E6BB199216C200F270AA /* GillSans-UltraBold.otf in Resources */,
 				85546614198FDDAF0096B8A6 /* Images.xcassets in Resources */,
+				8502E6BA199216C200F270AA /* GillSans-SemiBoldItalic.otf in Resources */,
+				8502E6B8199216C200F270AA /* GillSans-LightItalic.otf in Resources */,
+				8502E6B9199216C200F270AA /* GillSans-SemiBold.otf in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
 		};
@@ -217,6 +295,7 @@
 			files = (
 				8554660F198FDDAF0096B8A6 /* ViewController.m in Sources */,
 				8554660C198FDDAF0096B8A6 /* AppDelegate.m in Sources */,
+				8554662B198FE7CD0096B8A6 /* FXLabel.m in Sources */,
 				85546609198FDDAF0096B8A6 /* main.m in Sources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
@@ -332,7 +411,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Pantone Weather/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -343,7 +424,9 @@
 			buildSettings = {
 				ASSETCATALOG_COMPILER_APPICON_NAME = AppIcon;
 				ASSETCATALOG_COMPILER_LAUNCHIMAGE_NAME = LaunchImage;
+				CODE_SIGN_IDENTITY = "iPhone Developer";
 				INFOPLIST_FILE = "Pantone Weather/Info.plist";
+				IPHONEOS_DEPLOYMENT_TARGET = 7.0;
 				LD_RUNPATH_SEARCH_PATHS = "$(inherited) @executable_path/Frameworks";
 				PRODUCT_NAME = "$(TARGET_NAME)";
 			};
@@ -402,6 +485,7 @@
 				85546625198FDDAF0096B8A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		85546626198FDDAF0096B8A6 /* Build configuration list for PBXNativeTarget "Pantone WeatherTests" */ = {
 			isa = XCConfigurationList;
@@ -410,6 +494,7 @@
 				85546628198FDDAF0096B8A6 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
